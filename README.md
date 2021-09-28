@@ -1,4 +1,9 @@
 ### Hi there 👋
+![2021-04-12_00-45-29](https://user-images.githubusercontent.com/60936706/135148735-6bc30eea-e6b8-4941-8510-8f83c666c0bc.png)
+
+## Some Stats: 
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=KaizerVolfrang&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=KaizerVolfrang&show_icons=true&theme=react&include_all_commits=true&count_private=true">
 
 <!--
 **KaizerVolfrang/KaizerVolfrang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
